@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forbesbrian96&label=Profile%20views&color=0e75b6&style=flat" alt="forbesbrian96" /> </p>
 
-- 🔭 I’m currently working on **TOP 2023**
-
-- 👨‍💻 All of my projects are available at [https://golden-sopapillas-2f8563.netlify.app/](https://golden-sopapillas-2f8563.netlify.app/)
-
 - 📫 How to reach me **forbesbrian96@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1FJlrP-NRLSSrXJuH9fXd9pMgiTZnUgFjlfMrylIi3-k/edit#](https://docs.google.com/document/d/1FJlrP-NRLSSrXJuH9fXd9pMgiTZnUgFjlfMrylIi3-k/edit#)
