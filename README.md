@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Forbes</h1>
 <h3 align="center">A full-stack developer from South Carolina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forbesbrian96" alt="forbesbrian96" /></a> </p>
-
 - 🌱 I’m currently learning **C# + TypeScript**
 
 - 📫 How to reach me **forbesbrian96@gmail.com**
